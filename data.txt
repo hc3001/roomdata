@@ -1,0 +1,46 @@
+[
+  {
+    "city": "\r\n          北京市\r\n          \r\n        ",
+    "RoomData": "62433"
+  },
+  {
+    "city": "\r\n          东莞市\r\n          \r\n        ",
+    "RoomData": "10731"
+  },
+  {
+    "city": "\r\n          佛山市\r\n          \r\n        ",
+    "RoomData": "13341"
+  },
+  {
+    "city": "\r\n          广州市\r\n          \r\n        ",
+    "RoomData": "24111"
+  },
+  {
+    "city": "\r\n          杭州市\r\n          \r\n        ",
+    "RoomData": "22544"
+  },
+  {
+    "city": "\r\n          青岛市\r\n          \r\n        ",
+    "RoomData": "16101"
+  },
+  {
+    "city": "\r\n          深圳市\r\n          \r\n        ",
+    "RoomData": "54219"
+  },
+  {
+    "city": "\r\n          上海市\r\n          \r\n        ",
+    "RoomData": "55966"
+  },
+  {
+    "city": "\r\n          苏州市\r\n          \r\n        ",
+    "RoomData": "22836"
+  },
+  {
+    "city": "\r\n          珠海市\r\n          \r\n        ",
+    "RoomData": "19201"
+  },
+  {
+    "city": "\r\n          中山市\r\n          \r\n        ",
+    "RoomData": "9812"
+  }
+]
